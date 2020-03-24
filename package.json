@@ -1,0 +1,23 @@
+{
+  "name": "foto-scout",
+  "version": "1.0.0",
+  "description": "A system to research and plan great photography locations beforehand so less amount of time will be lost for scouting photography locations and more time can be spent on actually taking phenomenal photos on location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karkixitiz/Foto-Scout.git"
+  },
+  "author": "kiran karki <contact.karkikiran714@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karkixitiz/Foto-Scout/issues"
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "homepage": "https://github.com/karkixitiz/Foto-Scout#readme"
+}
