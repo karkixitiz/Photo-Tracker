@@ -32,7 +32,7 @@
 
 <script>
     import { mapGetters } from 'vuex'
-    import vSelect from 'vue-select'
+     import vSelect from 'vue-select'
 
     export default {
         components: {

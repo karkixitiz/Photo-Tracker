@@ -12,7 +12,7 @@
 
 <script>
     import { mapGetters } from 'vuex'
-    import ImageGallery from './ImageGallery'
+    import ImageGallery from './ImageGallary'
 
     export default {
         data () {
