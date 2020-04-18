@@ -1,0 +1,33 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "API for the FotoScout system",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "body-parser": "*",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.0.0",
+    "dateformat": "^3.0.3",
+    "exif": "^0.6.0",
+    "express": "*",
+    "express-validator": "^6.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.9",
+    "mongoose-validator": "^2.1.0",
+    "multer": "*",
+    "rand-token": "^1.0.1",
+    "socket.io": "^2.3.0",
+    "validator": "^13.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "seed": "node api/common/seeds.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kiran karki",
+  "license": "ISC"
+}

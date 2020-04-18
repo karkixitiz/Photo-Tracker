@@ -8,8 +8,14 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve Client with hot reload at localhost:8080
 npm run dev
+
+# Go to Server directory and seed data to database
+# (only needs to be run once)
+npm run seed
+# On Server, Serve with hot reload at localhost:3000
+node app.js
 
 # build for production with minification
 npm run build
